@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukash88
 - 👀 I’m interested in .NET (CORE)
-- 🌱 I’m currently learning ASP>NET
+- 🌱 I’m currently learning ASP>NET and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
